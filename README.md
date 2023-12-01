@@ -13,7 +13,9 @@ I am currently a student of School 21 by Sber, located in Kazan, republic of Tat
 
 ### Tools:
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/-Github-1E7775?style=for-the-badge&logo=github&logoColor=181717) ![Gitlab](https://img.shields.io/badge/-gitlab-1E7775?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+
 ![Nginx](https://img.shields.io/badge/-nginx-1E7775?style=for-the-badge&logo=nginx&logoColor=009639) 
 ![Docker](https://img.shields.io/badge/-docker-1E7775?style=for-the-badge&logo=docker&logoColor=2496ED)
 
