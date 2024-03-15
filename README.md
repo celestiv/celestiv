@@ -44,21 +44,24 @@
 ### Devops
 | Project name | Description | Stack |
 | -------------|-------------|-------|
-| [Linux](https://github.com/celestiv/s21_devops/tree/main/linux) | Основы операционной системы Linux, простые команды и администрирование | Linux, Bash |
-| [Linux Network](https://github.com/celestiv/s21_devops/tree/main/linux_network) | Основы устройства компьютерных сетей | ipcalc, netstat, netplan, iptables |
-| [Linux Monitoring 1](https://github.com/celestiv/s21_devops/tree/main/monitoring_1) | Базовый мониторинг ОС Linux(Ubuntu 22.04) | bash, find, grep , awk | 
-| [Linux Monitoring 2](https://github.com/celestiv/s21_devops/tree/main/monitoring_2) | Продвинутый мониторинг ОС Linux(Ubuntu 22.04) | Prometheus, Grafana, Node Exporter |
-| [Simple docker](https://github.com/celestiv/s21_devops/tree/main/simple_docker) | Основы работы с docker | docker, docker-compose, dockle, nginx |
-| [CI/CD](https://github.com/celestiv/s21_devops/tree/main/CI-CD) | Основы работы с CI/CD | Gitlab, ssh |
-| [devops 7](https://github.com/celestiv/s21_devops/tree/main/devops-7) | Бронирование отелей | Java, maven, PosqtgeSQL, docker, docker compose |
+| [Linux](https://github.com/celestiv/s21_devops/tree/main/linux)                     | Основы операционной системы Linux, простые команды и администрирование | Linux, Bash                                     |
+| [Linux Network](https://github.com/celestiv/s21_devops/tree/main/linux_network)     | Основы устройства компьютерных сетей                                   | ipcalc, netstat, netplan, iptables              |
+| [Linux Monitoring 1](https://github.com/celestiv/s21_devops/tree/main/monitoring_1) | Базовый мониторинг ОС Linux(Ubuntu 22.04)                              | bash, find, grep , awk                          | 
+| [Linux Monitoring 2](https://github.com/celestiv/s21_devops/tree/main/monitoring_2) | Продвинутый мониторинг ОС Linux(Ubuntu 22.04)                          | Prometheus, Grafana, Node Exporter              |
+| [Simple docker](https://github.com/celestiv/s21_devops/tree/main/simple_docker)     | Основы работы с docker                                                 | docker, docker-compose, dockle, nginx           |
+| [CI/CD](https://github.com/celestiv/s21_devops/tree/main/CI-CD)                     | Основы работы с CI/CD                                                  | Gitlab, ssh                                     |
+| [devops 7](https://github.com/celestiv/s21_devops/tree/main/devops-7)               | Бронирование отелей                                                    | Java, maven, PosqtgeSQL, docker, docker compose |
 
+### SQL
+| Project name | Description | Stack |
+| -------------|-------------|-------|
+| [Info](https://github.com/celestiv/s21_SQL/tree/main/Info_v1.0)                     | Сбор статистики по учащимся в школе 21 и их прогрессу                  | postreSQL                                       |
 
 ### C/C++
 | Project name | Description | Stack |
 | -------------|-------------|-------|
-| [Matrix OOP](https://github.com/celestiv/s21_cpp/tree/main/matrix_oop) | Матрицы на языке C++ | C++, OOP, Google test, Makefile |
-| [Matrix C](https://github.com/celestiv/s21_cpp/tree/main/matrix_c) | Матрицы на языке Си | C, Check.h, Makefile |
-
+| [Matrix OOP](https://github.com/celestiv/s21_cpp/tree/main/matrix_oop)              | Матрицы на языке C++                                                   | C++, OOP, Google test, Makefile                 |
+| [Matrix C](https://github.com/celestiv/s21_cpp/tree/main/matrix_c)                  | Матрицы на языке Си                                                    | C, Check.h, Makefile                            |
 
 ## Statistics:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celestiv&theme=solarized_dark)
