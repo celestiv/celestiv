@@ -50,6 +50,7 @@
 | [Linux Monitoring 2](https://github.com/celestiv/s21_devops/tree/main/monitoring_2) | Продвинутый мониторинг ОС Linux(Ubuntu 22.04) | Prometheus, Grafana, Node Exporter |
 | [Simple docker](https://github.com/celestiv/s21_devops/tree/main/simple_docker) | Основы работы с docker | docker, docker-compose, dockle, nginx |
 | [CI/CD](https://github.com/celestiv/s21_devops/tree/main/CI-CD) | Основы работы с CI/CD | Gitlab, ssh |
+| [devops 7](https://github.com/celestiv/s21_devops/tree/main/devops-7) | Бронирование отелей | Java, maven, PosqtgeSQL, docker, docker compose |
 
 
 ### C/C++
