@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B47F7&random=false&width=435&lines=Devops+Engineer)](https://git.io/typing-svg)
 ### Hi there 👋
 
 ## About me:
