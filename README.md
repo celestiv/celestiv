@@ -4,10 +4,10 @@
 * Alexander Mukabenov
 * Devops Engineer
 * [School 21](https://21-school.ru/)
-* Kazan, Russia
+* Moscow, Russia
 
 ## Contacts:
-[![Telegram Badge](https://img.shields.io/badge/-celestiv-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/celestiv)](https://t.me/celestiv) 
+[![Telegram Badge](https://img.shields.io/badge/-celestiv-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mukabenovalex)](https://t.me/mukabenovalex) 
 [![Gmail Badge](https://img.shields.io/badge/-mukabenovalex@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mukabenovalex@gmail.com)](mailto:mukabenovalex@gmail.com)
 
 ## Tools:
